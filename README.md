@@ -1,4 +1,7 @@
-![Banner](https://github.com/AeX03/Lbinder/blob/main/logo/HeartSkull.png)
+<p align="center">
+<img src="https://github.com/AeX03/Lbinder/blob/main/logo/HeartSkull.png" width="200"/>
+  <h1 align="center">Lbinder</h1>
+  
 # Lbinder
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/Lbinder)
 [![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/Lbinder)
