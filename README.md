@@ -5,8 +5,10 @@
 # Lbinder
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/AeX03/Lbinder)
 [![version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/AeX03/Lbinder)
-[![Coverage Status](https://coveralls.io/repos/github.com/AeX03/eLys/badge.svg)](https://coveralls.io/github.com/AeX03/Lbinder)
-<img alt="Discord" src="https://img.shields.io/discord/709150520446550097"/>
+[![Discord](https://img.shields.io/discord/979349329909264414?label=Discord&logo=Discord)](http://discord.gg/xpaxKBEx9t)
+<br>
+[![eLys](https://img.shields.io/badge/Site-eLys-pink.svg)](https://eLysiane.eu/)
+[![Tornado](https://img.shields.io/badge/NOVA-Tornado%20Cash-brightgreen.svg)](https://img.shields.io/badge/-available%20/09/2022-lightgrey)
 
 
 # It's Binder Not FUD!!!! Disable your antivirus so that the tool works without bugs ! THX U
