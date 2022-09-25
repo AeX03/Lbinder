@@ -14,7 +14,7 @@
 # It's Binder Not FUD!!!! Disable your antivirus so that the tool works without bugs ! THX U
 Stap 1 : Disable your antivirus
 <br>
-Stap 2 : Donwload on Realease, https://github.com/AeX03/Lbinder/releases/tag/lbinder
+Stap 2 : Donwload on Realease, my [Discord](http://discord.gg/xpaxKBEx9t) channels
 <br>
 Stap 3 : Launch the Tool
 <br>
